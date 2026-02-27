@@ -1,0 +1,168 @@
+{
+  "version": 1,
+  "base_track": "Love me?",
+  "base_artist": "橘ひなの",
+  "createdAt": "2026-02-27T17:22:54.150789Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "Ludic",
+      "has_synced": true,
+      "path": "select/01_Love_Me_Like_Ludic.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Love Me Like",
+      "artist": "LÜdic",
+      "has_synced": true,
+      "path": "select/02_Love_Me_Like_LÜdic.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "(Do You Love Me) Just Say Yes",
+      "artist": "Highway 101",
+      "has_synced": true,
+      "path": "select/03_(Do_You_Love_Me)_Just_Say_Yes_Highway_101.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "(Turn Out the Light and) Love Me Tonight",
+      "artist": "Don Williams",
+      "has_synced": false,
+      "path": "select/04_(Turn_Out_the_Light_and)_Love_Me_Tonight_Don_Williams.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "(Turn Out The Light And) Love Me Tonight (Single Version)",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/05_(Turn_Out_The_Light_And)_Love_Me_Tonight_(Single_Version)_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Are You Ever Gonna Love Me",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/06_Are_You_Ever_Gonna_Love_Me_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Are You Ever Gonna Love Me (LP Version)",
+      "artist": "Holly Dunn",
+      "has_synced": true,
+      "path": "select/07_Are_You_Ever_Gonna_Love_Me_(LP_Version)_Holly_Dunn.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Because You Love Me",
+      "artist": "Jo Dee Messina",
+      "has_synced": true,
+      "path": "select/08_Because_You_Love_Me_Jo_Dee_Messina.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) - 2006 Remastered Version",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/09_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_-_2006_Remastered_Version_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "I Don't Care (Just As Long As You Love Me) (2006 Remastered LP Version)",
+      "artist": "Buck Owens",
+      "has_synced": true,
+      "path": "select/10_I_Don't_Care_(Just_As_Long_As_You_Love_Me)_(2006_Remastered_LP_Version)_Buck_Owens.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/11_I_Love_the_Way_You_Love_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/12_I_Love_the_Way_You_Love_Me_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "I Love the Way You Love Me (Remastered LP Version)",
+      "artist": "John Michael Montgomery",
+      "has_synced": true,
+      "path": "select/13_I_Love_the_Way_You_Love_Me_(Remastered_LP_Version)_John_Michael_Montgomery.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "I Wouldn't Want To Live If You Didn't Love Me",
+      "artist": "Don Williams",
+      "has_synced": true,
+      "path": "select/14_I_Wouldn't_Want_To_Live_If_You_Didn't_Love_Me_Don_Williams.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (feat. Tim McGraw)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/15_Just_to_Hear_You_Say_That_You_Love_Me_(feat._Tim_McGraw)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Just to Hear You Say That You Love Me (With Tim McGraw   Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/16_Just_to_Hear_You_Say_That_You_Love_Me_(With_Tim_McGraw_Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Love Me If You Can",
+      "artist": "Toby Keith",
+      "has_synced": false,
+      "path": "select/17_Love_Me_If_You_Can_Toby_Keith.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Love Me If You Can",
+      "artist": "Toby Keith",
+      "has_synced": true,
+      "path": "select/18_Love_Me_If_You_Can_Toby_Keith.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Love Me Like You Mean It",
+      "artist": "Kelsea Ballerini",
+      "has_synced": true,
+      "path": "select/19_Love_Me_Like_You_Mean_It_Kelsea_Ballerini.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Love me?",
+      "artist": "橘ひなの",
+      "has_synced": false,
+      "path": "select/pl_01_Love_me_橘ひなの.txt"
+    }
+  ]
+}
